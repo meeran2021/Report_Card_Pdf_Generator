@@ -1,0 +1,11 @@
+You need to write a code to create report cards. Here is how. 
+Have a look at the two attachments. The details required are mentioned in the excel 'Dummy Data'. 
+There are 5 students whose report card needs to be created through your program. You can decide the format/design of the report card. 
+These are the conditions:-
+•	The program should pick up all the information from the excel sheet and start creating PDFs of the report card. 
+•	The scorecard should have a pic of the student as well. The pics  of the 5 students are mentioned in the folder ‘Pics’
+•	You can decide the layout of the report card and any exam name. However, all the information mentioned in the excel sheet should be captured.
+•	The scorecard should mention the maximum marks (100) and the score of the student. There are no negative marks.
+•	The headers mentioned in blue in the datasheet should be fixed in the report cards, and the marks and responses should change for every student. 
+•	Once the program runs, it should pick the student photos from the Pics folder as per the student's registration number. 
+•	There needs to be a logo. Pick any logo you wish. It could be scenery for all we care. Pick a white background for the scorecard for clarity.
